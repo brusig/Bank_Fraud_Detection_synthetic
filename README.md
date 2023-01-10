@@ -8,7 +8,6 @@ Quite a different project, due to the fraudulent transactions only accounting fo
 
 The notebook is a step by step in creating a ml model, including finding which classifier suits our goal the most!
 
-[Dataset here](https://www.kaggle.com/datasets/ealaxi/paysim1/download?datasetVersionNumber=2)
-
+To run, download the [dataset](https://www.kaggle.com/datasets/ealaxi/paysim1/download?datasetVersionNumber=2) and add it to the data folder. (Too big to host here)
 
 Made during my time at Nod Bootcamp 2022.
